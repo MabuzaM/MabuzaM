@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mfanomutsha Ncube a software engineer.
-- 👀 I’m interested in developing software that work. I like back end development more than front end. 
-- 🌱 I’m currently learning the dot net Core MVC and python.
-- 💞️ I’m looking to collaborate on any projects that use the microsoft technologies as I am more proficient in VB.Net and C#.
-- 📫 How to reach me: My email address is: mabuzamfano@gmail.com, My Cell Number is: +27 739 303 098.
+- 👀 I’m interested in developing software that work. I am a frontend web developer with proficience in HTML5, CSS3, CSS Preprocessors (e.g SASS), Javascript, React, Typecsript redux and other CSS Frameworks such as Bootstrap. 
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on any frontend projects.
+- 📫 How to reach me: My email address is: mfanomutsha@gmail.com / mabuzamfano@gmail.com, My Cell Number is: +27 739 303 098.
 
 <!---
 MabuzaM/MabuzaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
